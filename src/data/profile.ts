@@ -11,6 +11,6 @@ export const profileData: Profile = {
   github: 'https://github.com/keerthipetla',
   location: 'Andhra Pradesh, IN',
   stats: {
-    cgpa: '9.23'
+    cgpa: '8.98'
   }
 };
